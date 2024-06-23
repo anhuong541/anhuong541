@@ -22,4 +22,4 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![n8n.io] (https://img.shields.io/badge/-n8n?&logo=n8n)
+![n8n.io](https://img.shields.io/badge/-n8n?&logo=n8n)
