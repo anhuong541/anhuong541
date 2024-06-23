@@ -2,34 +2,25 @@
 
 ## 👨‍💻 About Me
 
-<p style="width: 100%">
-  <div
-    style="
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: space-between;
-      width: 100%;
-    "
-  >
-    <div>
-      <ul>
-        <li>🌱 I’m currently learning to be a Fullstack Developer</li>
-        <li>🤔 I’m looking for help with everything.</li>
-        <li>💬 Ask me about Web performance and Frontend Technology.</li>
-        <li>📫 How to reach me: nxahuong.181.2001@gmail.com</li>
-        <li>🎸 Hobby: Running and Swimming</li>
-      </ul>
-    </div>
-    <div>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=anhuong541">
-        <img
-          src="https://stats.quira.sh/anhuong541/github?theme=dark"
-          alt="anhuong541's GitHub | Stats"
-        />
-      </a>
-    </div>
-  </div>
+<p style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+<div>
+  <ul>
+    <li>🌱 I’m currently learning to be a Fullstack Developer</li>
+    <li>🤔 I’m looking for help with everything.</li>
+    <li>💬 Ask me about Web performance and Frontend Technology.</li>
+    <li>📫 How to reach me: nxahuong.181.2001@gmail.com</li>
+    <li>🎸 Hobby: Running and Swimming</li>
+  </ul>
+</div>
+<div>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=anhuong541">
+    <img
+      src="https://stats.quira.sh/anhuong541/github?theme=dark"
+      alt="anhuong541's GitHub | Stats"
+    />
+  </a>
+</div>
+
 </p>
 
 [![anhuong541's GitHub | Languages Over Time](https://stats.quira.sh/anhuong541/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
