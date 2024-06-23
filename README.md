@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <div>
     <ul>
       <li>🌱 I’m currently learning to be a Fullstack Developer</li>
