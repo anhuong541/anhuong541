@@ -1,17 +1,19 @@
-# Hi there, I'm Huong Nguyen! 👋
+# Hi, I'm Huong Nguyen! 👋
+
+❤️ I have a preference for using React and Svelte for frontend development, as these frameworks allow me to build dynamic and efficient user interfaces.
+
+✨ Currently, I am dedicated to studying Node.js and MySQL, among other technologies, to deepen my knowledge and skills in backend development. My goal is to become a versatile Fullstack Developer.
 
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning to be a Fullstack Developer
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about Web performance and Frontend Technology.
-- 📫 How to reach me: nxahuong.181.2001@gmail.com
+- 📫 How to reach me: <nxahuong.181.2001@gmail.com>
 - 🎸 Hobby: Running and Swimming
 
 [![anhuong541's GitHub | Stats](https://stats.quira.sh/anhuong541/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 [![anhuong541's GitHub | Dependencies](https://stats.quira.sh/anhuong541/dependencies?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
-
-[![anhuong541's GitHub | Languages Over Time](https://stats.quira.sh/anhuong541/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 
 ## 🚀 Languages & Tools
 
@@ -33,3 +35,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!-- ![n8n.io](https://img.shields.io/badge/-n8n?&logo=N8n) -->
+
+
+![Snake animation](https://raw.githubusercontent.com/anhuong541/anhuong541/output/github-contribution-grid-snake-dark.svg)
