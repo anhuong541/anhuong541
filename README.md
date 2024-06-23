@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Huong Nguyen! 👋
 
-<!--
-**anhuong541/anhuong541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning to be a fullstack developer
+- 🤔 I’m looking for help with [Your Help Requests]
+- 💬 Ask me about [Your Knowledge Areas]
+- 📫 How to reach me: nxahuong.181.2001@gmail.com
+- 🎸 Hobby: Running and swimming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+### Frameworks
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![n8n.io] ()
