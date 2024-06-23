@@ -2,26 +2,26 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td>
-      <div>
-        - 🌱 I’m currently learning to be a Fullstack Developer
-        - 🤔 I’m looking for help with every thing.
-        - 💬 Ask me about Web performance and Frontend Technology.
-        - 📫 How to reach me: nxahuong.181.2001@gmail.com
-        - 🎸 Hobby: Running and Swimming
-      </div>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>🌱 I’m currently learning to be a Fullstack Developer</li>
+        <li>🤔 I’m looking for help with everything.</li>
+        <li>💬 Ask me about Web performance and Frontend Technology.</li>
+        <li>📫 How to reach me: nxahuong.181.2001@gmail.com</li>
+        <li>🎸 Hobby: Running and Swimming</li>
+      </ul>
     </td>
-    <td>
-      <h3>📫 Connect with Me</h3>
-      <div>
-        [![anhuong541's GitHub | Stats](https://stats.quira.sh/anhuong541/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
-        [![anhuong541's GitHub | Languages Over Time](https://stats.quira.sh/anhuong541/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
-      </div>
+    <td style="vertical-align: top;">
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=anhuong541">
+        <img src="https://stats.quira.sh/anhuong541/github?theme=dark" alt="anhuong541's GitHub | Stats" />
+      </a>
     </td>
   </tr>
 </table>
+
+[![anhuong541's GitHub | Languages Over Time](https://stats.quira.sh/anhuong541/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 
 ## 🚀 Languages & Tools
 
