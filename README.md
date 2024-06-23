@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-<table style="width:100%;">
+<table style="width:100%; border: 0px">
   <tr>
     <td style="vertical-align: top;">
       <ul>
