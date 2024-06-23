@@ -2,10 +2,11 @@
 
 ## 👨‍💻 About Me
 
-<div style="width: 100%">
+<p style="width: 100%">
   <div
     style="
       display: flex;
+      flex-direction: row;
       align-items: center;
       justify-content: space-between;
       width: 100%;
@@ -29,7 +30,7 @@
       </a>
     </div>
   </div>
-</div>
+</p>
 
 [![anhuong541's GitHub | Languages Over Time](https://stats.quira.sh/anhuong541/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 
