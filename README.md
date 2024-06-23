@@ -9,15 +9,15 @@
 - 🌱 I’m currently learning to be a Fullstack Developer
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about Web performance and Frontend Technology.
-- 📫 How to reach me: <nxahuong.181.2001@gmail.com>
+- 📫 How to reach me: [Email](nxahuong.181.2001@gmail.com)
 - 🎸 Hobby: Running and Swimming
 
-<img align="right" src="https://stats.quira.sh/anhuong541/github?theme=light" width="300">
-
-## My stack:
+## 🤓 My stack:
 - 1 years of experience in React , async, await
 - HTML/CSS, Javascript
 - git, docker, CI/CD
+
+<br />
 
 [![anhuong541's GitHub | Stats](https://stats.quira.sh/anhuong541/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 [![anhuong541's GitHub | Dependencies](https://stats.quira.sh/anhuong541/dependencies?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
