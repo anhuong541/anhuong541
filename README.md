@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 <table style="width:100%; border: none;">
-  <tr>
+  <tr style="border: none;">
     <td style="vertical-align: top;">
       <ul>
         <li>🌱 I’m currently learning to be a Fullstack Developer</li>
