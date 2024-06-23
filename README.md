@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-<p style="width: 50%;">
+<p style="width: 50%; float: left;">
   <ul>
     <li>🌱 I’m currently learning to be a Fullstack Developer</li>
     <li>🤔 I’m looking for help with everything.</li>
@@ -11,7 +11,7 @@
     <li>🎸 Hobby: Running and Swimming</li>
   </ul>
 </p>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=anhuong541" style="width:50%;">
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=anhuong541" style="width: 49%; float: right;">
     <img
       src="https://stats.quira.sh/anhuong541/github?theme=dark"
       alt="anhuong541's GitHub | Stats"
