@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning to be a Fullstack Developer
 - 🤔 I’m looking for help with everything.
-- 💬 Ask me about Web performance and Frontend Technology.
 - 📫 How to reach me: [nxahuong.181.2001](nxahuong.181.2001@gmail.com)
 - 🎸 Hobby: Running and Swimming
 
