@@ -19,7 +19,6 @@
 <br />
 
 [![anhuong541's GitHub | Topics Over Time](https://stats.quira.sh/anhuong541/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
-[![anhuong541's GitHub | Dependencies](https://stats.quira.sh/anhuong541/dependencies?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anhuong541)
 
 ## 🚀 Languages & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
