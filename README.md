@@ -9,7 +9,7 @@ const skills = {
   frontend: ['React', 'Svelte', 'TypeScript'],
   backend: ['Node.js', 'ExpressJS'],
   framework: ['Next.js', 'NestJS']
-  database: ['MySQL'],
+  database: ['MySQL', 'Firebase', 'PostgreSQL'],
   tools: ['Git', 'Docker', 'ChatGPT', 'Cursor']
 };
 ```
