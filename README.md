@@ -8,7 +8,7 @@ Frontend developer with a passion for creating clean, efficient user interfaces.
 const skills = {
   frontend: ['React', 'Svelte', 'TypeScript'],
   backend: ['Node.js', 'ExpressJS'],
-  framework: ['Next.js', 'NestJS']
+  framework: ['Next.js', 'NestJS'],
   database: ['MySQL', 'Firebase', 'PostgreSQL'],
   tools: ['Git', 'Docker', 'ChatGPT', 'Cursor']
 };
