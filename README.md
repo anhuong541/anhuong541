@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Huong Nguyen
 
-Frontend developer with a passion for creating clean, efficient user interfaces.
-
-## 💼 Skills
+### Skills
 
 ```javascript
 const skills = {
@@ -14,7 +12,7 @@ const skills = {
 };
 ```
 
-## 🚀 About Me
+### About Me
 
 - 🌱 Currently leveling up as a **Fullstack Developer**
 - 💡 2+ years experience with React ecosystem
@@ -24,7 +22,7 @@ const skills = {
 [![An Huong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhuong541)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhuong541&layout=compact)
 
-## 🛠️ Tech Stack
+### My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
