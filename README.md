@@ -1,24 +1,31 @@
-# Hi, I'm Huong Nguyen! 👋
+# 👋 Hi, I'm Huong Nguyen
 
-❤️ I have a preference for using React and Svelte for frontend development, as these frameworks allow me to build dynamic and efficient user interfaces.
+Frontend developer with a passion for creating clean, efficient user interfaces.
 
-✨ Currently, I am dedicated to studying Node.js and MySQL, among other technologies, to deepen my knowledge and skills in backend development. My goal is to become a versatile Fullstack Developer.
+## 💼 Skills
 
-## 👨‍💻 About Me
+```javascript
+const skills = {
+  frontend: ['React', 'Svelte', 'TypeScript'],
+  backend: ['Node.js', 'ExpressJS'],
+  framework: ['Next.js', 'NestJS']
+  database: ['MySQL'],
+  tools: ['Git', 'Docker', 'ChatGPT', 'Cursor']
+};
+```
 
-- 🌱 I’m currently learning to be a Fullstack Developer
-- 🤔 I’m looking for help with everything.
-- 📫 How to reach me: [nguyenxuananhuong541](nguyenxuananhuong541@gmail.com)
-- 🎸 Hobby: Running and Swimming
+## 🚀 About Me
 
-## 🤓 My stack:
-- 1 years of experience in React , async, await
-- HTML/CSS, Javascript
-- git, docker, CI/CD
+- 🌱 Currently leveling up as a **Fullstack Developer**
+- 💡 2+ years experience with React ecosystem
+- 🏊‍♀️ When not coding: Running and Swimming
+- 📫 Reach me: [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
 
-<br />
+[![An Huong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhuong541)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhuong541&layout=compact)
 
-## 🚀 Languages & Tools
+## 🛠️ Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,12 +38,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!-- ![n8n.io](https://img.shields.io/badge/-n8n?&logo=N8n) -->
-
-<!-- ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/anhuong541/anhuong541/output/github-contribution-grid-snake-dark.svg) -->
