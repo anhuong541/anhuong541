@@ -12,6 +12,8 @@ const skills = {
 };
 ```
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### About Me
 
 - 🌱 Currently leveling up as a **Fullstack Developer**
