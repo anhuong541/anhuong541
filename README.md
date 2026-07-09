@@ -19,8 +19,7 @@ const skills = {
 - 🏊‍♀️ When not coding: Running and Swimming
 - 📫 Reach me: [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
 
-[![An Huong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhuong541)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhuong541&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anhuong541)](https://git.io/streak-stats)
 
 ### My Tech Stack
 
