@@ -15,7 +15,7 @@ const skills = {
 ### About Me
 
 - 🌱 Currently leveling up as a **Fullstack Developer**
-- 💡 2+ years experience with React ecosystem
+- 💡 3+ years experience with React ecosystem
 - 🏊‍♀️ When not coding: Running and Swimming
 - 📫 Reach me: [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
 
