@@ -19,7 +19,7 @@ const skills = {
 - 🏊‍♀️ When not coding: Running and Swimming
 - 📫 Reach me: [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anhuong541)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anhuong541&theme=dark&border_radius=24&locale=vi&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_height=220)](https://git.io/streak-stats)
 
 ### My Tech Stack
 
