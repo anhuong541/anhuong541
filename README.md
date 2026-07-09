@@ -20,6 +20,7 @@ const skills = {
 - 📫 Reach me: [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anhuong541&theme=dark&border_radius=24&locale=vi&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_height=220)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
 ### My Tech Stack
 
