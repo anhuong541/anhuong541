@@ -100,13 +100,7 @@ const skills = {
 </p>
 
 <div align="center">
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anhuong541&border_radius=12&card_width=500" />
-  </a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" />
-</p>
+  
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anhuong541&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/anhuong541/github-readme-activity-graph)
