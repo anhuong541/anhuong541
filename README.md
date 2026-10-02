@@ -103,7 +103,7 @@ const skills = {
   
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anhuong541&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/anhuong541/github-readme-activity-graph)
+[![Ashutosh's github activity graph]https://github-readme-activity-graph-kohl-iota.vercel.app/graph?username=anhuong541&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/anhuong541/github-readme-activity-graph)
 
 </div>
 
