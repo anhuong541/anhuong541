@@ -99,12 +99,13 @@ const skills = {
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="250" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshxfi&theme=default&show_icons=true&hide_border=true&count_private=false" height="250" />
 <div align="center">
+
+![GitHub Streak](./profile/streak.svg)
   
 <br/>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph-kohl-iota.vercel.app/graph?username=anhuong541&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)
+![Huong Nguyen's github activity graph](https://github-readme-activity-graph-kohl-iota.vercel.app/graph?username=anhuong541&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)
 
 </div>
 
