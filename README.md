@@ -22,7 +22,7 @@
 
 Currently leveling up as a **Fullstack Developer**, with 3+ years of hands-on experience in the React ecosystem.
 
-When I'm away from the keyboard, you'll find me running or swimming 🏊‍♀️🏃‍♀️.
+I'm not away from the keyboard, you'll find me running or swimming 🏊‍♀️🏃‍♀️.
 
 **Get in touch:**
 📫 [nguyenxuananhuong541@gmail.com](mailto:nguyenxuananhuong541@gmail.com)
